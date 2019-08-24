@@ -12,6 +12,6 @@ java -jar geektrust.jar <input file full path>
 ```
 
 for example: 
-
+```
 java -jar geektrust.jar /Users/apple/eclipse-workspace/Family.Problem/src/main/resources/input.txt
-
+```
